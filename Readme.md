@@ -1,5 +1,8 @@
 Subject:
 
+Note: Time zones conversion is not a purpose of this project, so assume all sent valid dates will be parsed with new Date() as GMT dates.
+
+
 1. You should provide your own project, not the example URL.
 
 2. A request to /api/:date? with a valid date should return a JSON object with a unix key that is a Unix timestamp of the input date in milliseconds (as type Number)
