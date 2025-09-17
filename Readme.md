@@ -6,7 +6,7 @@ This is the boilerplate code for the Timestamp Microservice project. Instruction
 
 https://github.com/freeCodeCamp/boilerplate-project-timestamp
 
-Note: Time zones conversion is not a purpose of this project, so assume all sent valid dates will be parsed with new Date() as GMT dates.
+Note: Time zones conversion is not a purpose of this project, so assume all sent valid dates will be parsed with **new Date()** as GMT dates.
 
 
 1. You should provide your own project, not the example URL.
